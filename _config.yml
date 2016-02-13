@@ -1,6 +1,6 @@
 name: MIKUMBA
 favicon: null
-layout_spectrum: 0.25376
+layout_spectrum: 0
 typography_spectrum: 1
 collections:
   - index:
@@ -32,7 +32,7 @@ color:
     - '#77410E'
     - '#C7935A'
     - '#CFBEAB'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.5
   saturation: 0.8747647511772811
   rhythmicContrast: 0.4520929753780365
