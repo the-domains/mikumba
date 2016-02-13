@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: MIKUMBA
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 1
 collections:
   - index:
       path: /
@@ -18,22 +14,26 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8747647511772811
-  brandStrength: 0
-  lightness: 0.1373067870736122
   brandColors:
     - '#030101'
     - '#77410E'
     - '#C7935A'
     - '#CFBEAB'
+  brandStrength: 0
+  lightness: 0.1373067870736122
+  saturation: 0.8747647511772811
   rhythmicContrast: 0.4520929753780365
-typography_spectrum: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 1
-favicon: null
-name: MIKUMBA
+purpose: []
