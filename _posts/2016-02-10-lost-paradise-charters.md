@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T14:44:26.247Z'
-dateModified: '2016-02-11T14:44:05.798Z'
+datePublished: '2016-02-13T18:10:44.705Z'
+dateModified: '2016-02-13T18:10:40.814Z'
 title: LOST PARADISE CHARTERS
 author: []
 sourcePath: _posts/2016-02-10-lost-paradise-charters.md
@@ -23,4 +23,4 @@ _type: Article
 
 ---
 # LOST PARADISE CHARTERS
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c535943-4b19-46a0-b447-69d033a6cb38.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/39f84b99-2b18-4675-bdc1-0a2e3fa5daa0.JPG)
