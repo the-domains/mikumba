@@ -1,39 +1,39 @@
-name: MIKUMBA
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 1
+name: MIKUMBA
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
+purpose: []
 color:
+  saturation: 1
+  brandStrength: 0.5
+  lightness: 0
   brandColors:
     - '#030101'
     - '#77410E'
     - '#C7935A'
     - '#CFBEAB'
-  brandStrength: 0.5
-  lightness: 0.875
-  saturation: 0.8747647511772811
-  rhythmicContrast: 0.75
-purpose: []
+  rhythmicContrast: 1
+typography_spectrum: 0.4333023
+layout_spectrum: 0.9603545
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
